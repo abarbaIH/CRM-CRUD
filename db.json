@@ -1,11 +1,25 @@
 {
   "clientes": [
     {
-      "nombre": "Juan NUEVO!",
-      "email": "correo2@correo.com",
-      "telefono": "12",
-      "empresa": "12212",
-      "id": 26
+      "name": "Jose",
+      "mail": "ami2@ami2.es",
+      "phone": "1",
+      "company": "Grupo Delgado",
+      "id": 35
+    },
+    {
+      "name": "Paquito",
+      "mail": "std1@msn.es",
+      "phone": "654544322",
+      "company": "Diana Casado",
+      "id": 36
+    },
+    {
+      "name": "Pablo",
+      "mail": "pma@msn.es",
+      "phone": "6342354223",
+      "company": "Diana Casado",
+      "id": 37
     }
   ]
 }
